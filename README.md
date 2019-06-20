@@ -1,4 +1,14 @@
-## Git and GitHub
+
+## Git and GitHub -> Task 0
+
+- [ ] How to use Git and GitHub
+- [x] try.github.io
+- [x] Create repository named *kottans-frontend*
+- [x] Create README.md for the repository.
+- [x] Describe your impressions about learned materials.
+- [ ] Send a pull-request to Kottans/mock-repo.
+- [ ] Extra Materials
+
 ---
 *VCS* - Version Control System.
 
@@ -113,3 +123,4 @@ Ignored files are usually build artifacts and machine generated files that can b
 4. files generated at runtime, such as .log, .lock, or .tmp
 5. hidden system files, such as .DS_Store or Thumbs.db
 6. personal IDE config files, such as .idea/workspace.xml
+
