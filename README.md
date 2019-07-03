@@ -1,7 +1,7 @@
 
 ## Git and GitHub -> Task 0
 
-- [ ] How to use Git and GitHub
+- [x] How to use Git and GitHub
 - [x] try.github.io
 - [x] Create repository named *kottans-frontend*
 - [x] Create README.md for the repository.
@@ -126,7 +126,7 @@ Ignored files are usually build artifacts and machine generated files that can b
 
 ## Screenshots 
 
-![Git branching] (img/learn_git1.png)
-![Git branching] (img/learn_git2.png)
-![Git branching] (img/learn_git3.png)
-![Git Udacity] (img/git_udacity.png)
+![Git branching](img/learn_git1.png)
+![Git branching](img/learn_git2.png)
+![Git branching](img/learn_git3.png)
+![Git Udacity](img/git_udacity.png)
