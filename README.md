@@ -6,8 +6,8 @@
 - [x] Create repository named *kottans-frontend*
 - [x] Create README.md for the repository.
 - [x] Describe your impressions about learned materials.
-- [ ] Send a pull-request to Kottans/mock-repo.
-- [ ] Extra Materials
+- [x] Send a pull-request to Kottans/mock-repo.
+- [x] Extra Materials
 
 ---
 *VCS* - Version Control System.
@@ -32,7 +32,7 @@ Modified files in current version for nex **commit**
 
 Move to new branch than you working on new *task/feature*. 
 
-## Cheatsheet
+### Cheatsheet
 ---
 `git init`
 
@@ -99,7 +99,7 @@ Show list of all commits
 Show differancy between two commits
 
 
-## (NEW!) Newline characters between Windows and Unix systems
+### (NEW!) Newline characters between Windows and Unix systems
 
 *Context*: Whenever we hit the "Enter" key on the keyboard, we are actually telling the computer to insert an invisible character into our text file to indicate to the computer that there should be a new line. *Unix* systems adds one character called the "line feed" character or LF or \n while *Windows* systems adds two characters, "carriage return" and "line feed" or CRLF or \r\n.
 
@@ -107,9 +107,9 @@ Solution for merge conflict if you working on Windows.
 
 `git config --global core.autocrlf true`
 
-## (SURPRISED!)
+### (SURPRISED!)
 
-## (USE IN THE FUTURE!)
+### (USE IN THE FUTURE!)
 
 I'll use in the future Git and GitHub :heart: It's very helpful for monitoring my own projects for any activity.
 
@@ -124,9 +124,27 @@ Ignored files are usually build artifacts and machine generated files that can b
 5. hidden system files, such as .DS_Store or Thumbs.db
 6. personal IDE config files, such as .idea/workspace.xml
 
-## Screenshots 
+### Screenshots / Completed courses
 
 ![Git branching](img/learn_git1.png)
 ![Git branching](img/learn_git2.png)
 ![Git branching](img/learn_git3.png)
 ![Git Udacity](img/git_udacity.png)
+
+## Linux CLI, and HTTP
+
+- [x] Learn the Command Line (Codeacademy)
+- [ ] HTTP: The Protocol Every Web Developer Must Know - Part 1
+- [ ] HTTP: The Protocol Every Web Developer Must Know - Part 2
+- [ ] Describe your impressions about learned materials.
+- [ ] Extra Materials
+
+### (NEW!) Newline characters between Windows and Unix systems
+
+### (SURPRISED!)
+
+### (USE IN THE FUTURE!)
+
+### Screenshots / Completed courses
+
+![Command Line](img/CommandLine[Codeacademy].png)
