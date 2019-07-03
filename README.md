@@ -131,7 +131,7 @@ Ignored files are usually build artifacts and machine generated files that can b
 ![Git branching](img/learn_git3.png)
 ![Git Udacity](img/git_udacity.png)
 
-## Linux CLI, and HTTP
+## Linux CLI, and HTTP -> Task 1
 
 - [x] Learn the Command Line (Codeacademy)
 - [ ] HTTP: The Protocol Every Web Developer Must Know - Part 1
