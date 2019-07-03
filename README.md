@@ -28,7 +28,7 @@ git config --global user.email myEmail@example.com
 
 Modified files in current version for nex **commit**
 
-### Branching 
+#### Branching 
 
 Move to new branch than you working on new *task/feature*. 
 
@@ -124,3 +124,9 @@ Ignored files are usually build artifacts and machine generated files that can b
 5. hidden system files, such as .DS_Store or Thumbs.db
 6. personal IDE config files, such as .idea/workspace.xml
 
+## Screenshots 
+
+![Git branching] (img/learn_git1.png)
+![Git branching] (img/learn_git2.png)
+![Git branching] (img/learn_git3.png)
+![Git Udacity] (img/git_udacity.png)
