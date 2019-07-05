@@ -144,11 +144,11 @@ In-depth coverage -> RFC.
 HTTP communication takes place over *TCP/IP*. The default port: **80** (Other ports could be used).
 Communication between a host and a client occurs, via a **request/response pair**.
 **URL** - Uniform resource locator.
-``
+```
 http://www.domain.com:1234/path/to/resource?a=b&x=y
   |             |       |         |            |
 protocol       host    port    resource      query
-``
+```
 - GET: fetch an existing resource. The URL contains all the necessary information the server needs to locate and return the resource.
 - POST: create a new resource. POST requests usually carry a payload that specifies the data for the new resource.
 - PUT: update an existing resource. The payload may contain the updated data for the resource.
