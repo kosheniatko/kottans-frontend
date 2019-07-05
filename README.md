@@ -134,17 +134,55 @@ Ignored files are usually build artifacts and machine generated files that can b
 ## Linux CLI, and HTTP -> Task 1
 
 - [x] Learn the Command Line (Codeacademy)
-- [ ] HTTP: The Protocol Every Web Developer Must Know - Part 1
+- [x] HTTP: The Protocol Every Web Developer Must Know - Part 1
 - [ ] HTTP: The Protocol Every Web Developer Must Know - Part 2
 - [ ] Describe your impressions about learned materials.
 - [ ] Extra Materials
 
-### (NEW!) Newline characters between Windows and Unix systems
+**HTTP** stands for Hypertext Transfer Protocol. 
+In-depth coverage -> RFC.
+HTTP communication takes place over *TCP/IP*. The default port: **80** (Other ports could be used).
+Communication between a host and a client occurs, via a **request/response pair**.
+**URL** - Uniform resource locator.
+``
+http://www.domain.com:1234/path/to/resource?a=b&x=y
+  |             |       |         |            |
+protocol       host    port    resource      query
+``
+- GET: fetch an existing resource. The URL contains all the necessary information the server needs to locate and return the resource.
+- POST: create a new resource. POST requests usually carry a payload that specifies the data for the new resource.
+- PUT: update an existing resource. The payload may contain the updated data for the resource.
+- DELETE: delete an existing resource.
+Request -> URL + VERB (GET, POST, etc.)
+Response -> Status Code + Message Body.
 
+Content of response or request:
+```
+message = <start-line>
+          *(<message-header>)
+          CRLF
+          [<message-body>]
+
+<start-line> = Request-Line | Status-Line 
+<message-header> = Field-Name ':' Field-Value
+```
+### (NEW!) Big amount of different codes.
+- 1xx: Informational Messages
+- 2xx: Successful
+- 3xx: Redirection
+- 4xx: Client Error
+- 5xx: Server Error
 ### (SURPRISED!)
-
+Custom headers can also be created and sent by the client; they will be treated as entity headers by the HTTP protocol.
 ### (USE IN THE FUTURE!)
-
+Tools for View HTTP Traffic:
+- Chrome/Webkit inspector
+- Fiddler (Windows)
+- Charles Proxy (OSX)
+Command line:
+- curl 
+- tshark
+- tcpdump
 ### Screenshots / Completed courses
 
 ![Command Line](img/CommandLine[Codeacademy].png)
