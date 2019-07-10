@@ -139,6 +139,9 @@ Ignored files are usually build artifacts and machine generated files that can b
 - [ ] Describe your impressions about learned materials.
 - [ ] Extra Materials
 
+**CLI** - Command Line Interface
+**GUI** - Graphic User Interface
+
 **HTTP** stands for Hypertext Transfer Protocol. 
 In-depth coverage -> RFC.
 HTTP communication takes place over *TCP/IP*. The default port: **80** (Other ports could be used).
@@ -166,6 +169,8 @@ message = <start-line>
 <start-line> = Request-Line | Status-Line 
 <message-header> = Field-Name ':' Field-Value
 ```
+
+
 ### (NEW!) Big amount of different codes.
 - 1xx: Informational Messages
 - 2xx: Successful
@@ -174,6 +179,12 @@ message = <start-line>
 - 5xx: Server Error
 ### (SURPRISED!)
 Custom headers can also be created and sent by the client; they will be treated as entity headers by the HTTP protocol.
+*Everything is a file* describes one of the defining features of Unix.
+`*nix` systems also contain:
+**Hard Link** — additional name for existing file.
+**Symbolic link** — something like label on Windows systems.
+**Socket** — internal endpoint for sending or receiving data within a node on a computer network.
+
 ### (USE IN THE FUTURE!)
 Tools for View HTTP Traffic:
 - Chrome/Webkit inspector
