@@ -197,3 +197,4 @@ Command line:
 ### Screenshots / Completed courses
 
 ![Command Line](img/CommandLine[Codeacademy].png)
+![Command Line](img/CLI[Hexlet].png)
