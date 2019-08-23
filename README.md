@@ -135,9 +135,10 @@ Ignored files are usually build artifacts and machine generated files that can b
 
 - [x] Learn the Command Line (Codeacademy)
 - [x] HTTP: The Protocol Every Web Developer Must Know - Part 1
-- [ ] HTTP: The Protocol Every Web Developer Must Know - Part 2
-- [ ] Describe your impressions about learned materials.
+- [x] HTTP: The Protocol Every Web Developer Must Know - Part 2
+- [x] Describe your impressions about learned materials.
 - [ ] Extra Materials
+- [ ] Optional
 
 **CLI** - Command Line Interface
 **GUI** - Graphic User Interface
