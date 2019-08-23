@@ -195,6 +195,11 @@ Command line:
 - curl 
 - tshark
 - tcpdump
+
+ZHS cool shell with many usefull features.
+
+`take` - command for creating directory and diving into it.
+
 ### Screenshots / Completed courses
 
 ![Command Line](img/CommandLine[Codeacademy].png)
