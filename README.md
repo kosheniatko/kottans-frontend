@@ -170,6 +170,27 @@ message = <start-line>
 <start-line> = Request-Line | Status-Line 
 <message-header> = Field-Name ':' Field-Value
 ```
+### Configuring Linux Web Servers (Udacity course)
+
+#### Intro to Linux
+
+*etc* - directory with configuration files.
+*var* - variable files, files that might grow in the future.
+*bin* - executable binaries stored.
+*sbin* - similar to bin directory, but commands only for root user.
+*lib* - libraries.
+
+#### Linux Security
+
+The Rule of Least Privilege - the program should have permission only for doing it's job, not more.
+
+`sudo adduser ...` - add new user.
+`sudo passwd -e [USER]` - make user password expired.
+
+**Octal permissions:**
+
+`r = 4, w = 2, x = 1`
+
 
 
 ### (NEW!) Big amount of different codes.
@@ -196,9 +217,11 @@ Command line:
 - tshark
 - tcpdump
 
-ZHS cool shell with many usefull features.
+ZHS is cool shell with many usefull features.
 
 `take` - command for creating directory and diving into it.
+
+*trash* plugin -> safer alternative to `rm`.
 
 ### Screenshots / Completed courses
 
