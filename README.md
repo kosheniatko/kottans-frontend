@@ -137,7 +137,7 @@ Ignored files are usually build artifacts and machine generated files that can b
 - [x] HTTP: The Protocol Every Web Developer Must Know - Part 1
 - [x] HTTP: The Protocol Every Web Developer Must Know - Part 2
 - [x] Describe your impressions about learned materials.
-- [ ] Extra Materials
+- [x] Extra Materials
 - [ ] Optional
 
 **CLI** - Command Line Interface
@@ -191,6 +191,8 @@ The Rule of Least Privilege - the program should have permission only for doing 
 
 `r = 4, w = 2, x = 1`
 
+### Networking for Web Developers (Udacity course)
+
 
 
 ### (NEW!) Big amount of different codes.
@@ -227,3 +229,28 @@ ZHS is cool shell with many usefull features.
 
 ![Command Line](img/CommandLine[Codeacademy].png)
 ![Command Line](img/CLI[Hexlet].png)
+
+## Git for Team Collaboration -> Task 2
+
+- [ ] Version Control with Git (Udacity Course)
+
+*Centralized version control* systems are based on the idea that there is a single *“central”* copy of your project somewhere (probably on a server), and programmers will *“commit”* their changes to this central copy.
+
+*Distributed version systems* do not necessarily rely on a central server to store all the versions of a project’s files. Instead, every developer “clones” a copy of a repository and has the full history of the project on their own hard drive. This copy (or “clone”) has all of the metadata of the original.
+
+### (NEW!)
+
+The --oneline flag is used to alter how git log displays information:
+`git log --oneline`
+
+The git log command has a flag that can be used to display the files that have been changed in the commit, as well as the number of lines that have been added or deleted. The flag is --stat ("stat" is short for "statistics").
+`git log --stat`
+
+The git log command has a flag that can be used to display the actual changes made to a file. The flag is --patch which can be shortened to just -p.
+`git log -p`
+
+### (SURPRISED!)
+
+### (USE IN THE FUTURE!)
+
+### Screenshots / Completed courses
