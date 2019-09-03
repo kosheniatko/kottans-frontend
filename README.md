@@ -230,9 +230,11 @@ ZHS is cool shell with many usefull features.
 ![Command Line](img/CommandLine[Codeacademy].png)
 ![Command Line](img/CLI[Hexlet].png)
 
-## Git for Team Collaboration -> Task 2
+## Git Collaboration -> Task 2
 
-- [ ] Version Control with Git (Udacity Course)
+- [x] Version Control with Git (Udacity Course)
+- [ ] GitHub & Collaboration
+- [ ] Extra Materials
 
 *Centralized version control* systems are based on the idea that there is a single *“central”* copy of your project somewhere (probably on a server), and programmers will *“commit”* their changes to this central copy.
 
@@ -254,3 +256,5 @@ The git log command has a flag that can be used to display the actual changes ma
 ### (USE IN THE FUTURE!)
 
 ### Screenshots / Completed courses
+
+![Git Collaboration](img/Version_Control_with_Git[Udacity].png)
