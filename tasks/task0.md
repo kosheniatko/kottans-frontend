@@ -125,7 +125,7 @@ Ignored files are usually build artifacts and machine generated files that can b
 
 ### Screenshots / Completed courses
 
-![Git branching](img/learn_git1.png)
-![Git branching](img/learn_git2.png)
-![Git branching](img/learn_git3.png)
-![Git Udacity](img/git_udacity.png)
+![Git branching](../img/learn_git1.png)
+![Git branching](../img/learn_git2.png)
+![Git branching](../img/learn_git3.png)
+![Git Udacity](../img/git_udacity.png)

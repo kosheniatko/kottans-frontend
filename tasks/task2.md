@@ -25,4 +25,4 @@ The git log command has a flag that can be used to display the actual changes ma
 
 ### Screenshots / Completed courses
 
-![Git Collaboration](img/Version_Control_with_Git[Udacity].png)
+![Git Collaboration](../img/Version_Control_with_Git[Udacity].png)

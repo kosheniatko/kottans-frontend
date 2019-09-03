@@ -94,5 +94,5 @@ ZHS is cool shell with many usefull features.
 
 ### Screenshots / Completed courses
 
-![Command Line](img/CommandLine[Codeacademy].png)
-![Command Line](img/CLI[Hexlet].png)
+![Command Line](../img/CommandLine[Codeacademy].png)
+![Command Line](../img/CLI[Hexlet].png)
