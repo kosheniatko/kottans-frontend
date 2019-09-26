@@ -68,6 +68,11 @@ The Rule of Least Privilege - the program should have permission only for doing 
 - 3xx: Redirection
 - 4xx: Client Error
 - 5xx: Server Error
+
+*Ethernet* is a family of computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).
+
+*Twisted pair* cabling is a type of wiring in which two conductors of a single circuit are twisted together for the purposes of improving electromagnetic compatibility.
+
 ### (SURPRISED!)
 Custom headers can also be created and sent by the client; they will be treated as entity headers by the HTTP protocol.
 *Everything is a file* describes one of the defining features of Unix.
