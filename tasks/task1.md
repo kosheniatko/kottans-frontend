@@ -60,7 +60,19 @@ The Rule of Least Privilege - the program should have permission only for doing 
 
 ### Networking for Web Developers (Udacity course)
 
+**DNS** - Domain Name System.
 
+host [-parameter] *website* - shows info about website (IPv4, IPv6, etc)
+dig [-parameter] *website* - shows info about website for scripts(less human readable)
+
+A *Canonical Name* or *CNAME* record is a type of DNS record that maps an alias name to a true or canonical domain name.
+An *AAAA* (pronounced *quad A*) record is a DNS record that maps to an IPv6 address.
+*NS* stands for ‘name server’ and this record indicates which DNS server is authoritative for that domain (which server contains the actual DNS records). 
+
+TTL - time to live (DNS cache time to live).
+
+IPv4 4 * 1 bytes long address.
+Port = 16 bit. 
 
 ### (NEW!) Big amount of different codes.
 - 1xx: Informational Messages
