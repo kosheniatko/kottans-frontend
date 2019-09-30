@@ -5,7 +5,7 @@
 - [x] HTTP: The Protocol Every Web Developer Must Know - Part 2
 - [x] Describe your impressions about learned materials.
 - [x] Extra Materials
-- [ ] Optional
+- [x] Optional
 
 **CLI** - Command Line Interface
 **GUI** - Graphic User Interface
