@@ -92,6 +92,10 @@ The original TCP packet format has six flags. Two more optional flags have since
 - URG (urgent) [U] — This packet contains data that needs to be delivered to the application out-of-order. Not used in HTTP or most other current applications.
 Three-way handshake
 
+**Firewalls** are devices that network operators can use to filter traffic that's coming into or leaving their network.
+
+
+
 ### (NEW!) Big amount of different codes.
 - 1xx: Informational Messages
 - 2xx: Successful
@@ -131,3 +135,4 @@ ZHS is cool shell with many usefull features.
 
 ![Command Line](../img/CommandLine[Codeacademy].png)
 ![Command Line](../img/CLI[Hexlet].png)
+![Network](../img/Networking_for_Web_Developers[Udacity].png)
