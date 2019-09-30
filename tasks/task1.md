@@ -74,6 +74,24 @@ TTL - time to live (DNS cache time to live).
 IPv4 4 * 1 bytes long address.
 Port = 16 bit. 
 
+Layers:
+- Hardware : Ethernet, WiFi
+- Internet : IP
+- Transport : TCP, UDP
+- Application : HTTP, SSH, NTP
+
+In low-level computer languages, a flag is a Boolean value — a true or false value — that is stored in memory as a single bit. If a flag bit is 1, we say the flag is set. If the flag bit is 0, the flag is cleared (or unset).
+
+The original TCP packet format has six flags. Two more optional flags have since been standardized, but they are much less important to the basic functioning of TCP. For each packet, tcpdump will show you which flags are set on that packet.
+
+- SYN (synchronize) [S] — This packet is opening a new TCP session and contains a new initial sequence number.
+- FIN (finish) [F] — This packet is used to close a TCP session normally. The sender is saying that they are finished sending, but they can still receive data from the other endpoint.
+- PSH (push) [P] — This packet is the end of a chunk of application data, such as an HTTP request.
+- RST (reset) [R] — This packet is a TCP error message; the sender has a problem and wants to reset (abandon) the session.
+- ACK (acknowledge) [.] — This packet acknowledges that its sender has received data from the other endpoint. Almost every packet except the first SYN will have the ACK flag set.
+- URG (urgent) [U] — This packet contains data that needs to be delivered to the application out-of-order. Not used in HTTP or most other current applications.
+Three-way handshake
+
 ### (NEW!) Big amount of different codes.
 - 1xx: Informational Messages
 - 2xx: Successful
