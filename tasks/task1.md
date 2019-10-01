@@ -94,8 +94,6 @@ Three-way handshake
 
 **Firewalls** are devices that network operators can use to filter traffic that's coming into or leaving their network.
 
-
-
 ### (NEW!) Big amount of different codes.
 - 1xx: Informational Messages
 - 2xx: Successful
