@@ -1,6 +1,6 @@
 ## Intro to HTML & CSS
 
-- [ ] Intro to HTML & CSS (Eng)
+- [x] Intro to HTML & CSS (Eng)
 - [ ] HTML Academy: first two sections, "Basics of HTML" & "Basics of CSS" — free exercises only, you don't have to do paid ones (Rus) 
 - [ ] Extra Materials
 
@@ -14,3 +14,5 @@
 ### (USE IN THE FUTURE!)
 
 ### Screenshots / Completed courses
+
+![Intro to HTML & CSS](../img/Intro_to_HTML_and_CSS[Udacity].png)
