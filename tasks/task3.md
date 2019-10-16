@@ -16,3 +16,4 @@
 ### Screenshots / Completed courses
 
 ![Intro to HTML & CSS](../img/Intro_to_HTML_and_CSS[Udacity].png)
+![Intro to HTML & CSS](../img/HTMLbasics[htmlAcademy].png)
